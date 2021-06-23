@@ -1,1 +1,1 @@
-# Fibonacci-pthreads
+Program for Fibonacci pthreads. Makefile included.
